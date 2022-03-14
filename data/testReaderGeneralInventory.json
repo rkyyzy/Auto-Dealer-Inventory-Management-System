@@ -1,0 +1,61 @@
+{
+    "InventoryCounter": 3,
+    "vehicles": [
+        {
+            "BuyInPrice": 500,
+            "InvNum": 1,
+            "BuyInStaff_sex": "",
+            "Mileage": 0,
+            "customer_phone": "",
+            "customer_sex": "",
+            "BuyInStaff_phone": "",
+            "seller_sex": "",
+            "Maker": "VW",
+            "URL": "",
+            
+            "Colour": "",
+            "BuyInStaff_name": "Wong",
+            "Type": "",
+            "Year": 0,
+            "ActualSellPrice": 0,
+            "BuyInStaff_id": 1,
+            "seller_name": "NONE",
+            "ExpectSellPrice": 0,
+            "Model": "",
+            "seller_phone": "",
+            "VIN": "",
+            "comment": "",
+            "SoldOrNot": false,
+            "customer_name": "NONE",
+            "seller_id": -1
+        },
+        {
+            "BuyInPrice": 500,
+            "InvNum": 2,
+            "BuyInStaff_sex": "",
+            "Mileage": 0,
+            "customer_phone": "",
+            "customer_sex": "",
+            "BuyInStaff_phone": "",
+            "seller_sex": "",
+            "Maker": "Benz",
+            "URL": "",
+            
+            "Colour": "",
+            "BuyInStaff_name": "Lee",
+            "Type": "",
+            "Year": 0,
+            "ActualSellPrice": 0,
+            "BuyInStaff_id": 2,
+            "seller_name": "NONE",
+            "ExpectSellPrice": 0,
+            "Model": "",
+            "seller_phone": "",
+            "VIN": "",
+            "comment": "",
+            "SoldOrNot": false,
+            "customer_name": "NONE",
+            "seller_id": -1
+        }
+    ]
+}
